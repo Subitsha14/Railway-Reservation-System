@@ -1,7 +1,7 @@
 package RailwayTicketBooking;
 
 import java.util.Scanner;
-
+    
 public class TicketBooking {
     Scanner s = new Scanner(System.in);
     Services service = new Services();

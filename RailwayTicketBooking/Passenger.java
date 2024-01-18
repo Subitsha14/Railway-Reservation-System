@@ -1,5 +1,5 @@
 package RailwayTicketBooking;
-
+  
 public class Passenger {
     int id;
     String name;
